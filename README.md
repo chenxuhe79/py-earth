@@ -8,7 +8,7 @@ Multivariate Adaptive Regression Splines, see the references below.
 ## The current files work for Python 3.11.6. 
 It requires Numpy 1.26.2 and Cython 3.0.5 installed at least.
 1. Git clone the repository to your local folder
-2. Run the clean.sh to remove any builded files, see the sh script for the files. It is written in Mac OS 10.15.7. You may modified the script based on your system
+2. Run the clean.sh to remove any builded files, see the sh script for the files. It is written in Mac OS 10.15.7. You may modify the script based on your system
 ```
 $sh clean.sh
 ```
