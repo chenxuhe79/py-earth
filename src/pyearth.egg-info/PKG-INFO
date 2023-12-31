@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pyearth
+Version: 0.0.0
+Summary: A Python implementation of Jerome Friedman Multivariate Adaptive Regression Splines
+Author: Chenxu He
+Author-email: he.chenxu@gmail.com
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+License-File: LICENSE.txt
